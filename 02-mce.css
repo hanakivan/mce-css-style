@@ -1,0 +1,53 @@
+@import "01-vars.css";
+
+.mce {
+    /* this is because some DIVs have already flex display */
+    display: block;
+
+    font-size: var(--font-size);
+}
+
+.mce * {
+    font-size: inherit;
+}
+
+.mce p {
+    line-height: var(--line-height);
+}
+
+.mce ul {
+
+}
+
+.mce ol {
+
+}
+
+.mce li {
+    line-height: var(--line-height);
+}
+
+.mce pre {
+    line-height: var(--line-height);
+}
+
+/* there is no H1, nor will be. H1 has always been a page title that is not to be styled by the user. */
+.mce h2 {
+    line-height: var(--line-height);
+}
+
+.mce h3 {
+    line-height: var(--line-height);
+}
+
+.mce h4 {
+    line-height: var(--line-height);
+}
+
+.mce h5 {
+    line-height: var(--line-height);
+}
+
+.mce h6 {
+    line-height: var(--line-height);
+}
