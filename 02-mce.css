@@ -34,20 +34,25 @@
 /* there is no H1, nor will be. H1 has always been a page title that is not to be styled by the user. */
 .mce h2 {
     line-height: var(--line-height);
+    font-size: calc(var(--font-size) * 2.1);
 }
 
 .mce h3 {
     line-height: var(--line-height);
+    font-size: calc(var(--font-size) * 1.8);
 }
 
 .mce h4 {
     line-height: var(--line-height);
+    font-size: calc(var(--font-size) * 1.5);
 }
 
 .mce h5 {
     line-height: var(--line-height);
+    font-size: calc(var(--font-size) * 1.2);
 }
 
 .mce h6 {
     line-height: var(--line-height);
+    font-size: calc(var(--font-size) * 1);
 }

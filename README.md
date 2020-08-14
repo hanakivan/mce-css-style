@@ -2,7 +2,7 @@
 
 Customizable CSS for rich text purposes.
 
-**Version:** `1.0.0`
+**Version:** `1.0.1`
 
 ## USAGE
 
