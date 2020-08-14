@@ -35,24 +35,34 @@
 .mce h2 {
     line-height: var(--line-height);
     font-size: calc(var(--font-size) * 2.1);
+    margin-top: 1.4em;
+    margin-bottom: .7em;
 }
 
 .mce h3 {
     line-height: var(--line-height);
     font-size: calc(var(--font-size) * 1.8);
+    margin-top: 1.4em;
+    margin-bottom: .7em;
 }
 
 .mce h4 {
     line-height: var(--line-height);
     font-size: calc(var(--font-size) * 1.5);
+    margin-top: 1.4em;
+    margin-bottom: .7em;
 }
 
 .mce h5 {
     line-height: var(--line-height);
     font-size: calc(var(--font-size) * 1.2);
+    margin-top: 1.4em;
+    margin-bottom: .7em;
 }
 
 .mce h6 {
     line-height: var(--line-height);
     font-size: calc(var(--font-size) * 1);
+    margin-top: 1.4em;
+    margin-bottom: .7em;
 }
