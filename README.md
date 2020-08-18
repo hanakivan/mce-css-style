@@ -2,7 +2,7 @@
 
 Customizable CSS for rich text purposes.
 
-**Version:** `1.0.2`
+**Version:** `1.0.3`
 
 ## USAGE
 
@@ -18,6 +18,6 @@ Customizable CSS for rich text purposes.
 You can include the files directly into your HTML code from JSDelivr CDN:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hanakivan/mce-css-style@1.0.0/01-vars.css" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hanakivan/mce-css-style@1.0.0/02-mce.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hanakivan/mce-css-style@1.0.3/01-vars.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hanakivan/mce-css-style@1.0.3/02-mce.css" />
 ```
